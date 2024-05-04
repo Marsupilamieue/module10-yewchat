@@ -25,3 +25,9 @@ Tutorial Web Chat
 - 3.1 Original Code
 
    ![](assets/3.1.1.png)
+
+- 3.2 Add some creativities to the webclient
+
+   ![](assets/3.2.png)
+
+   I enhanced the page by adding different colors to the components and implementing a hover style for the button.
